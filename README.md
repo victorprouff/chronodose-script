@@ -1,6 +1,6 @@
 # Trouver une dose de vaccin avec Python et un Raspberry Pi
 
-Petit script python permettant de trouver une chronodose de vaccin anti covid en fonction de nos coordonnées géographique et de la distance maximum souhaité.
+Petit script python permettant de trouver une dose de vaccin anti covid en fonction de nos coordonnées géographique et de la distance maximum souhaité.
 
 ## Prérequis
 - Un compte sur l'api d'[open street maps](https://maps.open-street.com/gui/). Voici la [doc](https://fr.open-street.com/doc/api/route/) de l'api que j'ai utilisé. Vous aurez besoin d'une clé d'api qui vous sera fournit.
